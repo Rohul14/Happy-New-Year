@@ -1,0 +1,186 @@
+/* nav relatad styles */
+/* body{ */
+    /* font-family: "Merriweather", serif; */
+    /* font-weight: 400; */
+  }
+header{
+    
+}
+.nav-content{
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    position: relative;
+    margin: 70px 100px;
+}
+.banner-img{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    
+}
+.new-year{
+    text-align: center;
+    position: absolute;
+    bottom:50% ;
+    right: 50%;
+    transform: translate(50%, 50%);
+    z-index: 100 ;
+}
+
+.happy{
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.party{
+    color: #FFF;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    margin-top: 10px;
+
+}
+.bg-gdt{
+    position: absolute;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+}
+/* section discount relatad style */
+.discount{
+    text-align: center;
+    margin-top: 120px;
+
+}
+.off{
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin: 30px;
+}
+.deals{
+    color: #F00;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 15px;
+}
+.all{ 
+    color: #070211;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 15px;
+}
+.img-newyear{
+    margin: 100px;
+}
+/* midnight ::content relatad styles */
+.vectorry{
+}
+.midnight{
+    position: relative;
+    justify-content: center;
+    margin: 100px 200px;
+}
+.midnight-content{
+    z-index:100 ;
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    transform: translate(50% 50%);
+    color: #FFF;
+}
+.vectorry-gtd{
+    position: absolute;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+}
+.group70{
+    position: absolute;
+    top: 10%;
+    left: 70%;
+}
+.wellcome{
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px; 
+    letter-spacing: 7.04px;
+    margin-bottom:10px ;
+
+}
+.dolor{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+.join{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 45px;
+    padding-left: 30px;
+}
+.divide{
+    display: block;
+}
+/* place-relatade relatad styles */
+.place-relatade{
+    text-align: center;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    height: 482px;
+    margin: 150px 150px 100px 200px;
+}
+.info{
+    padding-top: 150px;
+}
+.place{
+    margin-top: 100px;
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 45px;
+    margin: 0px;
+}
+.time{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 45px;
+    margin: 0px;
+}
+.date{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 45px;
+    margin: 0px;
+}
+.but-join{
+    margin-top: 30px;
+    color: #FFF;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #F00; 
+    border: 0px solid;
+
+}
+.tittle-color{
+    color: #F00;
+}
